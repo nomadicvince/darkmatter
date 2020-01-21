@@ -1,2 +1,2 @@
 # darkMatter
-DarkMatter: a WebGL Engine for rendering astronomical objects
+DarkMatter: a WebGL2 Engine for rendering astronomical objects
