@@ -1,0 +1,17 @@
+.content {
+    position: relative;
+    width: 100%;
+    height: auto;
+    background: var(--mainWhite); 
+    color: var(--mainBlack);
+}
+
+.content_container {
+    width: 80%;
+    font-size: 1.2rem;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px 0;
+    color: var(--mainBlack);
+}
+

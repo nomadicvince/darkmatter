@@ -1,0 +1,24 @@
+.blog {
+    position: relative;
+    background: var(--mainWhite);
+    width: 100%;
+    height: 100vh;
+    color: var(--mainBlack);
+}
+
+.blog_content {
+    background: var(--mainWhite);
+    width: 100%;
+    height: auto;
+    color: var(--mainBlack);
+    padding: 20px 0;
+}
+
+.center {
+    width: 90vw;
+    margin: 2rem auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    grid-column-gap: 2rem;
+    grid-row-gap: 2rem;
+  }
